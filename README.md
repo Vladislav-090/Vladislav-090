@@ -2,7 +2,7 @@
 
 ## Junior Go Developer
 
-'m an aspiring backend developer focused on Golang and backend technologies.
+I'm an aspiring backend developer focused on Golang and backend technologies.
 
 Currently learning:
 
